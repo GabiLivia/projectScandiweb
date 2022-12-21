@@ -54,7 +54,7 @@
   <div class="col-sm-10 col-md-4 col-lg-6 m-auto mb-2">
   <button type="submit" class="btn btn-success">Add</button>
   <a href="<?=ROOT?>">
-      <button type="button" class="btn btn-danger">Cancel</button>
+      <button type="button" class="btn btn-danger" >Cancel</button>
     </a>
 
   </div>
